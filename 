@@ -1,0 +1,62 @@
+[33mcommit 35fce64c7dab5394fe37e70c26d3fa7e2010133f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: f81b8b9 a26ea81
+Author: Rodrigo2be <rodrigo.miranda@2beconsulting.com.br>
+Date:   Wed Feb 11 16:02:49 2026 -0300
+
+    Merge branch 'novabranch'
+
+[33mcommit f81b8b962033942573cd9b031d00c837fa08faab[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Rodrigo2be <rodrigo.miranda@2beconsulting.com.br>
+Date:   Wed Feb 11 15:50:50 2026 -0300
+
+    a5b87f79dbe966fc566197abe0191e937e0fbdec
+     Please enter the commit message for your changes. Lines starting
+    a5b87f79dbe966fc566197abe0191e937e0fbdes
+
+[33mcommit a26ea814a3ac668698d750585c478cbe09bea71c[m[33m ([m[1;31morigin/novabranch[m[33m, [m[1;32mnovabranch[m[33m)[m
+Author: Rodrigo2be <rodrigo.miranda@2beconsulting.com.br>
+Date:   Wed Feb 11 15:46:12 2026 -0300
+
+    novo personagem
+
+[33mcommit 1862fa2f83dba4e75e536b6688a6444462bb76f1[m
+Author: Rodrigo2be <rodrigo.miranda@2beconsulting.com.br>
+Date:   Wed Feb 11 15:45:29 2026 -0300
+
+    vo personagem
+
+[33mcommit 684bf39ff3e82262aabebb614e058d021e9af37f[m
+Author: Rodrigo2be <rodrigo.miranda@2beconsulting.com.br>
+Date:   Wed Feb 11 15:22:36 2026 -0300
+
+    novo planeta
+
+[33mcommit fd6b76a780d8f6e5d38f44049fbcbf9f322716f8[m
+Author: Rodrigo2be <rodrigo.miranda@2beconsulting.com.br>
+Date:   Wed Feb 11 14:50:40 2026 -0300
+
+    novo teste
+
+[33mcommit a119e837195bd33d8df8c52a7172163f8ee483fb[m
+Author: Rodrigo2be <rodrigo.miranda@2beconsulting.com.br>
+Date:   Tue Feb 10 17:38:52 2026 -0300
+
+    edição
+
+[33mcommit 7b59ed162c663576dd09571a2961d27729eb97d0[m
+Author: Rodrigo2be <rodrigo.miranda@2beconsulting.com.br>
+Date:   Tue Feb 10 17:31:58 2026 -0300
+
+    edição e novo arquivo
+
+[33mcommit c28005bc6fd5798b5e25419d49d8fd80ef93bc78[m
+Author: Rodrigo2be <rodrigo.miranda@2beconsulting.com.br>
+Date:   Tue Feb 10 17:21:54 2026 -0300
+
+    Adicionando o README
+
+[33mcommit 3ebfd1a2c267baa0ba3e515bc4b3c55fb10da586[m
+Author: Rodrigo2be <rodrigo.miranda@2beconsulting.com.br>
+Date:   Tue Feb 10 17:08:36 2026 -0300
+
+    Criação arquivo de personagens
